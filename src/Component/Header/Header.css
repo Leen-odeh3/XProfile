@@ -1,0 +1,44 @@
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 40px 10px 40px;
+    width: 100%;
+}
+.main{
+    width:100%;
+}
+.logo{
+    width:70px
+}
+.header-icons{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+div i.icon{
+    width:100px;
+    padding:10px 15px;
+    border-radius: 7px;
+    border: 1px solid gray;
+    cursor: pointer;
+    margin-left: 5px;
+}
+.contribute{
+    border: 1px solid gray;
+    border-radius: 7px;
+    padding: 10px 20px;
+     margin-left: 5px;
+}
+div.contribute i{
+    color:rgb(235, 194, 15);
+   
+}
+
+input:focus{
+    border: 3px solid rgb(71, 71, 212);
+}
+div i:hover,.contribute:hover{
+background-color: rgb(150, 150, 150);
+}
