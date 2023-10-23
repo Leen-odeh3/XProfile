@@ -1,8 +1,12 @@
-# React + Vite
+# 𝕏 Profile
+ list your Twitter ( 𝕏 ) and Github profile to the world
+### Languages/Tools
+- ReactJS
+- Axios
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### API =>  <a href="https://65364c04c620ba9358ed4590.mockapi.io/api/users">Link </a>
 
-Currently, two official plugins are available:
+## Res.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="https://github.com/Leen-odeh3/XProfile/assets/123558998/9ae10962-26e9-4f1c-b534-2960f3af2cbb"/>
+
